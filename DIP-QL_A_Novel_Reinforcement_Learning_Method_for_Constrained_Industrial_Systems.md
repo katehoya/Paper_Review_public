@@ -34,7 +34,7 @@ Microgrid란 여러 제약이 있는 특정한 시스템 내에서의 전력 수
  - 또한 microgrid의 DERs를 관리하는 multiple agents를 제어하기 위한 cooperative RL을 제안했다. 이는 차원의 저주를 피할 수 있었다.
 
 2) exact-constraint satisfaction로 문제를 푼 유형.
- - 주로 RL응ㄹ 이용했다.
+ - 주로 RL을 이용했다.
  - Zhang.은 DERs를 관리하는 agent간 불완전한 정보를 갖고 있는 분산 microgrid system을 해결하기 위해 bi-RL 프레임워크를 제시했다.
  - 그들의 상위 연구에서 어떤 연구자는 규칙기반 매핑을 RL agent의 의사결정과 결합하여 microgrid의 전력 균형 방정식을 정확하게 만족시켰다.
  - 뿐만 아니라 진화 알고리즘과 RL방법을 결합하는 방식으로도 또 다른 문제를 해결했다.
